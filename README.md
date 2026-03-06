@@ -35,6 +35,7 @@ I am a cybersecurity professional with a strong academic foundation in informati
 
 | Project | Description | Key Skills |
 - [Digital Forensics & Steganography Investigation](https://github.com/kiranpun/Digital-Forenses-with-contemporaneous-notes) | End-to-end forensic investigation on a USB disk image using Kali Linux with court-admissible contemporaneous notes| Digital Forensics, Kali Linux, Chain of Custody |
+- [Microsoft SC-200 Study Notes](https://github.com/kiranpun/sc-200-study-notes) | Structured study notes, labs, and resources for the Microsoft Security Operations Analyst (SC-200) certification, covering Microsoft Sentinel, Defender XDR, and threat hunting | SC-200, Microsoft Sentinel, Defender XDR, SIEM, Threat Hunting |
 
 ---
 
