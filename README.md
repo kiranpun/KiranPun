@@ -34,7 +34,7 @@ I am a cybersecurity professional with a strong academic foundation in informati
 ## 📂 Featured Projects
 
 | Project | Description | Key Skills |
-- TBA
+- [Digital Forensics & Steganography Investigation](https://github.com/kiranpun/Digital-Forenses-with-contemporaneous-notes) | End-to-end forensic investigation on a USB disk image using Kali Linux with court-admissible contemporaneous notes| Digital Forensics, Kali Linux, Chain of Custody |
 
 ---
 
@@ -59,4 +59,4 @@ I am a cybersecurity professional with a strong academic foundation in informati
 
 ---
 
-*Actively building hands-on SOC skills — currently working through HTB SOC Analyst Path, CompTIA Security+, and Splunk Fundamentals.*
+*Actively building hands-on SOC skills — currently working through HTB SOC Analyst Path, Microsoft SC-200 certification.*
