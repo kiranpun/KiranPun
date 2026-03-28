@@ -36,6 +36,7 @@ I am a cybersecurity professional with a strong academic foundation in informati
 | Project | Description | Key Skills |
 
 - [ Zaphod Bank | Security Operations Centre](https://github.com/kiranpun/zaphod-security-operations) | Threat detection engineering for a fictional UK fintech| Microsoft Sentinel, Kali Linux, Windows Server 2022 | Status : Ongoing
+- [Agile Mosca Protocol](https://github.com/kiranpun/agile-mosca-pqc) | Quantum-resistant "Security Sidecar" proxy designed to mitigate "Harvest Now, Decrypt Later" (HNDL) attacks on legacy infrastructure | PQC (ML-KEM/Kyber), Python, Docker, NCSC 2035 Compliance | Status: Active (MVP)
 - [Microsoft SC-200 Study Notes](https://github.com/kiranpun/sc-200-study-notes) | Structured study notes, labs, and resources for the Microsoft Security Operations Analyst (SC-200) certification, covering Microsoft Sentinel, Defender XDR, and threat hunting | SC-200, Microsoft Sentinel, Defender XDR, SIEM, Threat Hunting | Status : Ongoing
 - [Digital Forensics & Steganography Investigation](https://github.com/kiranpun/Digital-Forenses-with-contemporaneous-notes) | End-to-end forensic investigation on a USB disk image using Kali Linux with court-admissible contemporaneous notes| Digital Forensics, Kali Linux, Chain of Custody | Status : Completed
 
