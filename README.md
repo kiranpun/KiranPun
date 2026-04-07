@@ -1,4 +1,4 @@
-# Hi, I'm Kiran Pun 👋
+# Hi, I'm Kiran 👋
 
 **MSc Information Security (Distinction) · University of Surrey**
 Co-author, ACNS 2026 · Thales Prize recipient · Camberley, England
